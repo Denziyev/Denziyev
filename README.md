@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denziyev
+- 👋 Hi, I’m Ilkin Denziyev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
 - 🧑‍💻 I'm Computer Science student 
