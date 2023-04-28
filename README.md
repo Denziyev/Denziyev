@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilkin Denziyev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 🧑‍💻 I'm Computer Science student 
+- 🌱 I’m currently learning Full Stack Development at Code Academy
+- 🧑‍💻 I'm Computer Science student at ASOİU/ADNSU
 - 📫 How to reach me ilkinhd@code.edu.az 
 
 <!---
