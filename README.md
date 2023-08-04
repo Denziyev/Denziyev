@@ -9,7 +9,7 @@
 - 🧑‍💻 I'm **Computer Science** student at **at ASOİU/ADNSU**
 
 - 📫 How to reach me **ilkinhd@code.edu.az**
-   <img src="https://www.qualitydevs.com/wp-content/uploads/2017/12/desarrollador-1288x724.jpg" width="300" align="right"/>
+   <img src="	https://static.vecteezy.com/system/resources/previ…ginal/coding-logo-design-template-free-vector.jpg" width=200" align="right"/>
 
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denziyev" alt="denziyev" /></a> </p>
