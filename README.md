@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denziyev&label=Profile%20views&color=0e75b6&style=flat" alt="denziyev" /> </p>
 
    <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="300" align="right"/>
+   
 - 🌱 I’m currently learning **Full Stack Development at Code Academy**
-
+  
 - 🧑‍💻 I'm **Computer Science** student at **at ASOİU/ADNSU**
 
 - 📫 How to reach me **ilkinhd@code.edu.az**
