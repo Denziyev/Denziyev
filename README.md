@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denziyev&label=Profile%20views&color=0e75b6&style=flat" alt="denziyev" /> </p>
 
 
-
 - 🌱 I’m currently learning **Full Stack Development at Code Academy**
 
 - 🧑‍💻 I'm **Computer Science** student at **at ASOİU/ADNSU**
 
 - 📫 How to reach me **ilkinhd@code.edu.az**
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denziyev" alt="denziyev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
