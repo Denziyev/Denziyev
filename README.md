@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denziyev&label=Profile%20views&color=0e75b6&style=flat" alt="denziyev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denziyev" alt="denziyev" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Development at Code Academy**
 
