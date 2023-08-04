@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilkin Danziyev</h1>
 <h3 align="center">I'm FullStack developer in Azerbaijan/Baku</h3>
 
- <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="280" height="180"  align="right"/>
+ <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="280" height="180" margin-bottom="10"  align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denziyev&label=Profile%20views&color=0e75b6&style=flat" alt="denziyev" /> </p>
 
    
